@@ -1,0 +1,2 @@
+# simple-quote-page
+Kezdő
